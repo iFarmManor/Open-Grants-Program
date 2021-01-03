@@ -4,7 +4,7 @@
 
 * **Project Name:** iFarm Manor Marketplace
 * **Team Name:** iFarm Manor
-* **Payment Address:** BTC or Ethereum (DAI) payment address. We don't accept payments for the program in other currencies at this stage. (e.g. 123mp123...)
+* **Payment Address:** 0xaa665fc881a87b7b194e7422b22e8e6867dd77d7
 
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
